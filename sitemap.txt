@@ -1,4 +1,9 @@
 http://example.com/link/index.html
+http://example.com/2022/10/04/Intro-to-GNU-Make/
 http://example.com/categories/index.html
 http://example.com/tags/index.html
 http://example.com/
+http://example.com/tags/C-C/
+http://example.com/tags/development-kit/
+http://example.com/tags/tutorial/
+http://example.com/categories/Toolbox/
